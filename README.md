@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Raams-codes
-- 🌱 I’m currently learning and exploring Data Science and Mechine learning...
-- 📫 Im from coimbatore... I love Histry, maths, India....  
-- ⚡ I'm a coffe Lover too
+- 🌱 Aspiring Data Science enthusiast 👨🏻‍💻, exploring the world of data through Python, SQL, Machine learning and much more on the way🪁
+- 📫 Im from coimbatore... I love Histry, maths, India...
 
 ## Skills
 
