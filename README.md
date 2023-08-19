@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Raams-codes
-- 🌱 Aspiring Data Science enthusiast 👨🏻‍💻, exploring the world of data through Python, SQL, Machine learning and much more on the way🪁
+- 🌱 Aspiring Data Science enthusiast 👨🏻‍💻, exploring the world of data through Python, SQL, Tableau, PowerBI, Machine learning and much more on the way🪁
 - 📫 Im from coimbatore... I love Histry, maths, India...
 
 ## Skills
 
 - Programming languages: python,SQL
-- Frameworks and libraries: pandas,numpy,seaborn,matplotlib,plotly,skilearn,statsmodel
+- Frameworks and libraries: pandas,numpy,seaborn,matplotlib,plotly,sklearn,statsmodel
 - Databases: Mysql,
 
 ## Connect with Me
